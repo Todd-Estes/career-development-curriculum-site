@@ -8,7 +8,7 @@ title: Career Journal Template
 ### Mod 1 
 
 Week 1: [Link here to your gist]
-- [ ] (completed)
+- [x] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
